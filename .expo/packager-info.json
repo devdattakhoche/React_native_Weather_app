@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 5204,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://em-9pj.devdattakhoche.wheatherapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.em-9pj.devdattakhoche.wheatherapp.exp.direct",
+  "ngrokPid": 5252,
+  "webpackServerPort": 19006
+}
